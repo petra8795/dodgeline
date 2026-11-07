@@ -1,10 +1,10 @@
-# Flipline – website
+# Brinkline – website
 
-Landing, support and privacy pages for the Flipline iPhone game, served by GitHub Pages.
+Landing, support and privacy pages for the Brinkline iPhone game, served by GitHub Pages.
 
-- Landing: https://petra8795.github.io/flipline/
-- Support: https://petra8795.github.io/flipline/support.html
-- Privacy policy: https://petra8795.github.io/flipline/privacy.html
+- Landing: https://petra8795.github.io/brinkline/
+- Support: https://petra8795.github.io/brinkline/support.html
+- Privacy policy: https://petra8795.github.io/brinkline/privacy.html
 
 ## At launch
 In `index.html`, replace the "Coming soon on the App Store" button (`id="appstore"`) with Apple's official
